@@ -28,8 +28,6 @@ function App() {
       <CircleSelector
       selections={selections}
       />
-
-    
     </div>
   );
 }
